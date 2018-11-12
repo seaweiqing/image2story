@@ -1,6 +1,3 @@
 # neuraltalk_plus_charcnn
 
-<div>A project for telling stories according to images in some particular style (e.g: Shakespeare, Jinyong Novel)</div><div><br></div>
-<div>This project is for the class final project of deep learning.</div><div><br></div>
-<div><b>Project name:</b></div><div><b></b>Image to Story (in some particular style)</div><div><br></div>
-<div><b>Reference:</b></div><div>Deep Visual-Semantic Alignments for Generating Image Descriptions:&nbsp;https://cs.stanford.edu/people/karpathy/cvpr2015.pdf</div>
+<div>A project for telling stories according to images in some particular style (e.g: Shakespeare, Jinyong Novel)</div><div><br></div><div>This project is for the class final project of deep learning.</div><div><br></div><div><b>Project name:</b></div><div><b></b>Image to Story (in some particular style)</div><div><br></div><div><b>Reference:</b></div><div><span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 13px;">Karpathy, A., &amp; Li, F. F. (2015). Deep visual-semantic alignments for generating image descriptions.&nbsp;</span><i style="position: relative; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 13px;">Computer Vision and Pattern Recognition</i><span style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 13px;">(pp.3128-3137). IEEE.</span></div><div>Deep Visual-Semantic Alignments for Generating Image Descriptions:&nbsp;https://cs.stanford.edu/people/karpathy/cvpr2015.pdf</div>
