@@ -4,12 +4,12 @@ The following are the output samples of our model, the first six pictures showed
 
 The next six pictures are the stories generated from the image captions.
 
-![output samples]https://github.com/seaweiqing/image2story/blob/master/output_samples/o_8.png
-![output samples]https://github.com/seaweiqing/image2story/blob/master/output_samples/o_9.png
-![output samples]https://github.com/seaweiqing/image2story/blob/master/output_samples/o_10.png
-![output samples]https://github.com/seaweiqing/image2story/blob/master/output_samples/o_1.jpg
-![output samples]https://github.com/seaweiqing/image2story/blob/master/output_samples/o_2.jpg
-![output samples]https://github.com/seaweiqing/image2story/blob/master/output_samples/o_3.jpg
-![output samples]https://github.com/seaweiqing/image2story/blob/master/output_samples/o_4.jpg
-![output samples]https://github.com/seaweiqing/image2story/blob/master/output_samples/o_5.jpg
-![output samples]https://github.com/seaweiqing/image2story/blob/master/output_samples/o_6.jpg
+![output samples](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_8.png)
+![output samples](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_9.png)
+![output samples](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_10.png)
+![output samples](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_1.jpg)
+![output samples](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_2.jpg)
+![output samples](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_3.jpg)
+![output samples](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_4.jpg)
+![output samples](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_5.jpg)
+![output samples](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_6.jpg)
