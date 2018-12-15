@@ -9,12 +9,12 @@ with its own text style. Then we use romantic novels as our data set and train a
 
 ## output samples
 
-![Result](out_samples\o_8.png)
-![Result](out_samples\o_9.png)
-![Result](out_samples\o_10.png)
-![Result](out_samples\o_1.jpg)
-![Result](out_samples\o_2.jpg)
-![Result](out_samples\o_3.jpg)
-![Result](out_samples\o_4.jpg)
-![Result](out_samples\o_5.jpg)
-![Result](out_samples\o_6.jpg)
+![Result](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_8.png)
+![Result](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_9.png)
+![Result](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_10.png)
+![Result](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_1.jpg)
+![Result](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_2.jpg)
+![Result](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_3.jpg)
+![Result](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_4.jpg)
+![Result](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_5.jpg)
+![Result](https://github.com/seaweiqing/image2story/blob/master/output_samples/o_6.jpg)
