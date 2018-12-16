@@ -9,7 +9,7 @@ with its own text style. Then we use romantic novels as our data set and train a
 
 ## pretrained model
 The pretrained model merges the image caption model from https://github.com/DeepRNN/image_captioning and a sentence-to-story model extracted from https://github.com/ryankiros/neural-storyteller.
-First, download the needed model [this](link), put the `caption.npy` into the `caption_model` folder, put the `stv_model` folder as well as `romance_models` folder into the `story_model` folder. Then put the image you would like to test into the `test/images` folder and run the `demo.py` the generated stories will be stored in the variable `-passages`. Also, it will produce the image caption images each with 3 captions, which is stored in the `test/results` folder.
+First, download the needed model [this](https://drive.google.com/file/d/1spVmEmBBBQG51ubdj8ymzKDmPIEnIVFJ/view?usp=sharing), put the `caption.npy` into the `caption_model` folder, put the `stv_model` folder as well as `romance_models` folder into the `story_model` folder. Then put the image you would like to test into the `test/images` folder and run the `demo.py` the generated stories will be stored in the variable `-passages`. Also, it will produce the image caption images each with 3 captions, which is stored in the `test/results` folder.
 
 
 ## dependencies
